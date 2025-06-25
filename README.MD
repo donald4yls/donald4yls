@@ -1,23 +1,23 @@
-### Hi there 👋
+# Hi there 👋 ![](https://komarev.com/ghpvc/?username=donald4ylse&color=blue&style=flat-square)
 
-<!--
-**xfyuan/xfyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![donaldyls stats](https://github-readme-stats.vercel.app/api?username=donald4yls&theme=dark&show_icons=true)](https://github.com/donald4yls)
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer / 📷 Weekend Photographer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- ⌨️ Software Engineer / Full-Stack Developer
+- Base in Shanghai.
+- More coming soon.
+
+## Social
+
+| Platform                               | -                                                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Linked In](https://www.linkedin.com/in/longsheng-yu-bb143795)     | !![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})(https://www.linkedin.com/in/longsheng-yu-bb143795)                                                                      |
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
--[Coming Soon]
+- [Coming Soon]
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://github.com/donald4yls/">➡️ More Blog Posts</a></p>
 
