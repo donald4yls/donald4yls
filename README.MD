@@ -19,7 +19,7 @@
 
 | Platform                               | -                                                                                                                         |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Linked In](https://www.linkedin.com/in/longsheng-yu-bb143795)     | ![image]({[[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]})(https://www.linkedin.com/in/longsheng-yu-bb143795)                                                                      |
+| [Linked In](https://www.linkedin.com/in/longsheng-yu-bb143795)     | ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)                                                                      |
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
