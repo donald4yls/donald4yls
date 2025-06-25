@@ -12,14 +12,14 @@
 
 ## About Me
 - ⌨️ Software Engineer / Full-Stack Developer
-- Base in Shanghai.
-- More coming soon.
+- 🌇 Base in Shanghai.
+- 💖 More coming soon.
 
 ## Social
 
 | Platform                               | -                                                                                                                         |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Linked In](https://www.linkedin.com/in/longsheng-yu-bb143795)     | !![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})(https://www.linkedin.com/in/longsheng-yu-bb143795)                                                                      |
+| [Linked In](https://www.linkedin.com/in/longsheng-yu-bb143795)     | ![image]({[[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]})(https://www.linkedin.com/in/longsheng-yu-bb143795)                                                                      |
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
