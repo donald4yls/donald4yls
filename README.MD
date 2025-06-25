@@ -1,8 +1,14 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=donald4ylse&color=blue&style=flat-square)
-
-[![donaldyls stats](https://github-readme-stats.vercel.app/api?username=donald4yls&theme=dark&show_icons=true)](https://github.com/donald4yls)
-
 💻 Full-Stack Developer / 📷 Weekend Photographer 
+
+# Quick overview
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=donald4yls&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donald4yls&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+</a>
 
 ## About Me
 - ⌨️ Software Engineer / Full-Stack Developer
@@ -20,15 +26,6 @@
 - [Coming Soon]
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://github.com/donald4yls/">➡️ More Blog Posts</a></p>
-
-# Quick overview
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=donald4yls&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donald4yls&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-</a>
 
 # Contributions overview
 
